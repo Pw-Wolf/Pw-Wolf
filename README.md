@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Profile Banner](https://github.com/Pw-Wolf/Pw-Wolf/banner.jpg)
+![Profile Banner](https://raw.githubusercontent.com/Pw-Wolf/Pw-Wolf/main/banner.jpg)
 
 Hello there! 👋 Welcome to my GitHub profile. I'm thrilled to have you here. Feel free to explore the repositories, projects, and contributions I've shared with the GitHub community. If you find anything interesting or helpful, don't hesitate to leave a star ⭐️ or even fork the repository to contribute.
 
